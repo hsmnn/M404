@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UnitConverter (Launch) - App",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "ch.epai.ict.m404.unit_converter.App",
+            "projectName": "unit-converter"
+        }
+    ]
+}
